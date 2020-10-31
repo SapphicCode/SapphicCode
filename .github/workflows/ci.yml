@@ -1,0 +1,9 @@
+name: CI
+
+jobs:
+  check:
+    name: Check
+    runs-on: ubuntu-latest
+    steps:
+      - name: Lint README
+        run: sha256sum README.md
