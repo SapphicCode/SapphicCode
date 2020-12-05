@@ -7,13 +7,21 @@ Hi, I'm Cassandra. I've made the occasional name for myself.
 
 - Python
 - Go
-- Terraform
+- Lua
+- HashiCorp Terraform
+- Shell (`#!/bin/sh`)
 
 ### If given no choice
 
 - JavaScript
 - HTML
 - Java
+
+### If held at gunpoint
+
+- C
+- C++
+- Assembly
 
 ## You may know me from
 
