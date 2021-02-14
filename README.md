@@ -26,3 +26,4 @@ Hi, I'm Cassandra. I've made the occasional name for myself.
 ## You may know me from
 
 - The Discord API / bot scene, 2016-2018
+- Way too many sideprojects I've put my name on
