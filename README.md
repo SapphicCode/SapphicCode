@@ -10,8 +10,13 @@ Generally speaking, I like doing infrastructure as code, as well as setting up t
 - Python
 - Go
 - Lua
-- HashiCorp Terraform
+- HCL2
+  - Terraform
+  - Nomad
 - Shell (`#!/bin/sh`)
+- YAML
+  - Ansible
+  - Concourse CI pipelines
 
 ### If given no choice
 
@@ -29,3 +34,4 @@ Generally speaking, I like doing infrastructure as code, as well as setting up t
 
 - The Discord API / bot scene, 2016-2018
 - Way too many sideprojects I've put my name on
+- "That girl who does way too much shit with Hashicorp Vault."
