@@ -6,30 +6,28 @@ Hi, I'm Cassandra. I've made the occasional name for myself.
 
 Generally speaking, I like doing infrastructure as code, as well as setting up the occasional container orchestration cluster. I *especially* like automating repetitive tasks away.
 
-## I like writing code in
+## I like writing code in, and working with tools such as
 
 - Python
 - Go
 - Lua
-- HCL2
-  - Terraform
-  - Nomad
-- Shell (`#!/bin/sh`)
-- YAML
-  - Ansible
-  - Concourse CI pipelines
-  - Kubernetes
+- [Terraform](https://www.terraform.io)
+- [Ansible](https://docs.ansible.com/ansible/latest/index.html)
+- [Vault](https://vaultproject.io)
+- [Nomad](https://nomadproject.io)
+- Kubernetes
 
 ### If given no choice
 
-- JavaScript
+- Shell (`#!/bin/sh`)
+- JavaScript / Node.js
 - HTML
 - Java
 
 ### If held at gunpoint
 
-- C
 - C++
+- C
 - Assembly
 
 ## You may know me from
