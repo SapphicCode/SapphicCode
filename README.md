@@ -1,3 +1,4 @@
+[![they/them pronouns](https://img.shields.io/badge/pronouns-they%2Fthem-orange)](https://pronoun.is/they/them)
 [![she/her pronouns](https://img.shields.io/badge/pronouns-she%2Fher-ff69b4)](https://pronoun.is/she/her)
 ![CI Status](https://img.shields.io/github/workflow/status/SapphicCode/SapphicCode/CI)
 
