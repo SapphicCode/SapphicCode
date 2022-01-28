@@ -4,7 +4,7 @@
 
 Hi, I'm Cassandra. I've made the occasional name for myself.
 
-Generally speaking, I like doing infrastructure as code, as well as setting up the occasional container orchestration cluster.
+Generally speaking, I like doing infrastructure as code, as well as setting up the occasional container orchestration cluster. I *especially* like automating repetitive tasks away.
 
 ## I like writing code in
 
