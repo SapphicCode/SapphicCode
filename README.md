@@ -17,6 +17,7 @@ Generally speaking, I like doing infrastructure as code, as well as setting up t
 - YAML
   - Ansible
   - Concourse CI pipelines
+  - Kubernetes
 
 ### If given no choice
 
